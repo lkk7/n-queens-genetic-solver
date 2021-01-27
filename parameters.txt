@@ -1,0 +1,5 @@
+N = 50
+pop_size = 100
+generations = 100000
+n_best = 20
+plot_winner_genome = 1
